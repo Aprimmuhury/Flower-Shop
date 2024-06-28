@@ -1,0 +1,172 @@
+.body {
+     font-family: 'Arima', cursive;
+}
+
+.shop-flower {
+     display: flex;
+     padding: 5%;
+     padding-left: 15%;
+     padding-right: 10%;
+}
+
+.Shop-font {
+     padding-top: 20%;
+}
+
+.sf {
+     font-weight: bolder;
+     font-size: xx-large;
+     text-shadow: 25%;
+}
+
+.first-flower {
+     width: 100%;
+     height: 80%;
+}
+
+#flow {
+     border-radius: 5erm;
+     background-color: crimson;
+     border-radius: 15%;
+     color: white;
+     padding: 15px 22px;
+     text-align: center;
+     text-decoration: none;
+     display: inline-block;
+     text-decoration: none;
+     display: inline-block;
+     font-size: 16px;
+     margin: 4px 2px;
+     cursor: pointer;
+}
+
+.feature {
+     display: inline-block;
+     padding-left: 12%;
+}
+
+#featuring {
+     font-weight: bolder;
+     font-size: x-large;
+}
+
+.feature-img {
+     border-radius: mixed;
+     display: flex;
+     width: 50%;
+     height: 10%;
+
+}
+
+#img {
+     margin: 0.25rem;
+     padding: 25rem;
+}
+
+.card-text {
+     font-size: large;
+     font-weight: bold;
+}
+
+.support {
+     display: flex;
+     align-items: center;
+     padding: 175px;
+     padding-left: 28%;
+}
+
+#off {
+     color: red;
+}
+
+.deal {
+     display: flex;
+     padding-left: 30%;
+     height: 60%;
+     width: 70%;
+}
+
+#png8 {
+     height: 100%;
+     width: 100%;
+     padding-left: 15%;
+}
+
+.btn {
+     background-color: crimson;
+     font-size: large;
+     color: aliceblue;
+     border-radius: 10px;
+     height: 25%;
+     width: 35%;
+}
+
+.ins-sec {
+     padding-top: 8%;
+     padding-left: 20%;
+     width: 75%;
+     padding-bottom: 10%;
+}
+
+.insta-head {
+     padding-left: 18%;
+}
+
+.gram {
+     padding-left: 25%;
+     font-size: xx-large;
+     font-weight: bolder;
+}
+
+.instra-pic {
+     display: flex;
+}
+
+.pa {
+     padding-left: 110px;
+}
+
+.group {
+     background-image: url(image/Rectangle\ 9.png);
+     background-repeat: no-repeat;
+     height: auto;
+     width: 1000px;
+     padding: 15%;
+     margin-left: 15%;
+     margin-bottom: 25%;
+     padding-left: 20%;
+}
+
+.gr {
+     display: flex;
+}
+
+.inpt {
+     width: 2000px;
+     border-radius: 5px;
+     font-weight: 900;
+     color: black;
+}
+
+.inp {
+     background-color: crimson;
+     font-size: large;
+     color: aliceblue;
+     border-radius: 5px;
+     height: 90%;
+     width: 100%;
+}
+
+.lion {
+     text-align: center;
+     font-size: large;
+     background: #111
+}
+
+.adi {
+     color: darkred;
+}
+
+.das {
+     color: rgba(19, 236, 236, 0.342);
+}
